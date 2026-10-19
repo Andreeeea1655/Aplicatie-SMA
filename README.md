@@ -1,5 +1,3 @@
-# Aplicatie-SMA
-Aplicatie in Android Studio
 # BookRecomandations
 
 An Android app that recommends books based on the **tropes** you want (and the ones you want to avoid), instead of relying on ratings or broad genres.
